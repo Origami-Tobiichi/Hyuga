@@ -24,7 +24,7 @@
 
   // Other
   global.ownername = 'Origami' // Ganti Jadi Namamu
-  global.owner = ['6283122268649','6283122268649','6283122268649'] // Kalo Mau Lebih Tambahin Aja
+  global.owner = ['6283122268649','6283853214466','6283122268649'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6283122268649' // Owner Utama Istilahnya
   global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
   global.packname = 'Hinata Hyuga' // Sticker Weem
